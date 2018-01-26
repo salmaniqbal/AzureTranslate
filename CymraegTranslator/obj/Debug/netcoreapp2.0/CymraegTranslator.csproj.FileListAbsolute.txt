@@ -1,0 +1,11 @@
+C:\dev\translation\CymraegTranslator\CymraegTranslator\bin\Debug\netcoreapp2.0\CymraegTranslator.deps.json
+C:\dev\translation\CymraegTranslator\CymraegTranslator\bin\Debug\netcoreapp2.0\CymraegTranslator.runtimeconfig.json
+C:\dev\translation\CymraegTranslator\CymraegTranslator\bin\Debug\netcoreapp2.0\CymraegTranslator.runtimeconfig.dev.json
+C:\dev\translation\CymraegTranslator\CymraegTranslator\bin\Debug\netcoreapp2.0\CymraegTranslator.dll
+C:\dev\translation\CymraegTranslator\CymraegTranslator\bin\Debug\netcoreapp2.0\CymraegTranslator.pdb
+C:\dev\translation\CymraegTranslator\CymraegTranslator\obj\Debug\netcoreapp2.0\CymraegTranslator.csprojResolveAssemblyReference.cache
+C:\dev\translation\CymraegTranslator\CymraegTranslator\obj\Debug\netcoreapp2.0\CymraegTranslator.csproj.CoreCompileInputs.cache
+C:\dev\translation\CymraegTranslator\CymraegTranslator\obj\Debug\netcoreapp2.0\CymraegTranslator.AssemblyInfoInputs.cache
+C:\dev\translation\CymraegTranslator\CymraegTranslator\obj\Debug\netcoreapp2.0\CymraegTranslator.AssemblyInfo.cs
+C:\dev\translation\CymraegTranslator\CymraegTranslator\obj\Debug\netcoreapp2.0\CymraegTranslator.dll
+C:\dev\translation\CymraegTranslator\CymraegTranslator\obj\Debug\netcoreapp2.0\CymraegTranslator.pdb
